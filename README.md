@@ -10,8 +10,10 @@
 </br>
 
 <div align="center">
-> <img src="md/img/photo_5139115304276830914_y.jpeg" style="width: 35%;">
+  <img src="md/img/photo_5139115304276830914_y.jpeg" style="width: 35%;">
 </div>
+
+</br>
 
 > <img src="md/vid/2022-08-02-16-05-59.gif">
 
