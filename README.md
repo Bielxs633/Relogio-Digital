@@ -34,5 +34,6 @@ Este projeto é um **relógio digital** simples e funcional, desenvolvido para m
 ## Tecnologias utilizadas
 1. HTML
 2. CSS
-3. JavaScript
-4. Git
+3. SCSS
+4. JavaScript
+5. Git
